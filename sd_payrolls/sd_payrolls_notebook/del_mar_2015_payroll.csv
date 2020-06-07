@@ -1,0 +1,163 @@
+name,job,department,,,total_regular_pay,overtime_pay,lump_sum_pay,other_pay,applicable_defined_benefit_pension_formula,defined_benefit,deferred_compensation_defined_contribution_plan,health_dental_vision
+Lester Middleton,Account Technician I,Finance,42344,51469,51469,0,800,3504,3% @ 60,7242,0,6182
+Adele Crawford,Account Technician Ii,Finance,44504,54095,54095,0,800,0,3% @ 60,7612,0,13379
+Jenny Parker,Administrative Assistant I,Public Works,42344,51469,44490,51,800,3504,2% @ 62,2883,0,6182
+Jay Lipscomb,Administrative Assistant Ii,Finance,44504,54095,54095,0,800,1955,3% @ 60,7612,0,11244
+Liza Rogers,Administrative Asst I,Community Services,42344,51469,46864,16571,800,2172,3% @ 60,6673,0,12068
+Andrew ,Administrative Services Dir.,Admin Svcs/City Clerk/Informat,103076,135245,108036,0,0,6646,2% @ 60,8457,0,9763
+Mark Delin,Assistant City Manager,City Manager,126099,156718,152499,0,2351,17767,3% @ 60,22756,0,6208
+Shaun McMahon,Assistant Planner I,Planning,45043,59101,33742,573,0,1791,N/A,439,0,3209
+Kathleen Benson,Assistant Planner I,Planning,56286,56286,31714,0,7714,0,2% @ 62,2232,0,4933
+Richard Caswell,Associate Planner,Planning,60711,77716,26278,1002,0,1169,2% @ 60,1888,0,6041
+Patrick Vergne,Chief Lg/Comm Svcs Director,Community Services,103076,135245,135245,0,5942,3906,2% @ 50,21527,0,11346
+Donald Mosier,City Councilmember,City Council,3600,3600,3600,0,0,0,N/A,0,0,0
+Terry Sinnott,City Councilmember,City Council,3600,3600,3600,0,0,0,N/A,0,0,0
+Sheryll Parks,City Councilmember,City Council,3600,3600,3600,0,0,0,N/A,0,0,0
+Darryl Woren,City Councilmember,City Council,3600,3600,3600,0,0,0,N/A,0,0,0
+Al Corti,City Councilmember/Mayor,City Council,4200,4200,4200,0,0,0,N/A,0,0,0
+Scott W. Huth,City Manager,City Manager,-,193988,193121,0,16326,7965,3% @ 60,28164,10000,14811
+Gordon Wong,Cm Intern Ii,City Manager,27144,35610,2095,0,0,0,N/A,27,0,0
+Miranda Valenzuela,Cm Intern Ii,City Manager,27144,35610,228,0,0,0,N/A,3,0,0
+Scott Gerdes,Cm Intern Ii,City Manager,27144,35610,9408,0,0,0,N/A,121,0,0
+Nivedita Chatterjee,Cm Intern Ii,City Manager,27144,35610,2565,0,0,0,N/A,33,0,0
+Patty Malik,Code Enforcement Officer Ii,Planning,52706,64065,64064,0,800,3984,3% @ 60,9014,0,6182
+Mark Rathsam,Dep Chief Lg/Dep Comm Svcs Dir,Community Services,89632,117605,116638,0,0,8704,2% @ 50,18498,0,11346
+Connie Smith,Deputy City Clerk,Admin Svcs/City Clerk/Informat,49160,59754,59754,0,800,1955,3% @ 60,8408,0,11244
+Eric Miniccilli,Deputy Public Works Director,Public Works,89632,117605,117605,0,4704,6000,3% @ 60,17090,0,14811
+Barbara Zucker,Facilities Coordinator,Community Services,39890,48486,48486,2500,800,1955,3% @ 60,6822,0,11244
+Teresa S. McBroome,Finance Director/Treasurer,Finance,103076,135245,135245,0,8504,5400,3% @ 60,19635,0,14811
+Tony Nguyen,Finance Intern I,Finance,20800,27290,4943,0,0,0,N/A,63,0,0
+Jessica Dang,Finance Intern I,Finance,20800,27290,2593,0,0,0,N/A,33,0,0
+Jason Julaton,Finance Intern Ii,Finance,28517,28517,3698,0,0,0,N/A,48,0,0
+Pat Giannetto,Fire Captain,Fire,70904,93032,62188,30163,1861,6272,3% @ 50,20943,1360,11345
+Giovani Maniscalco,Fire Captain,Fire,70904,93032,81208,24026,1572,3218,3% @ 50,18122,1201,10769
+Pat O'Neil,Fire Captain,Fire,70904,93032,50596,24823,2670,1112,3% @ 50,13531,501,4933
+James Bingham,Fire Captain,Fire,70904,93032,93032,57344,1861,6993,3% @ 50,20884,1360,6208
+Jeff Penacho,Fire Engineer,Fire,59870,78575,78228,33293,1572,2245,3% @ 50,17433,1151,10190
+David Read,Fire Engineer,Fire,59870,78575,78574,22777,1572,1216,3% @ 50,17687,1148,6208
+Robert Tucker,Fire Engineer,Fire,59870,78575,78574,18228,1572,3962,3% @ 50,17609,1148,10743
+Gabriel Robinson,Firefighter/Paramedic,Fire,59870,78575,23031,8359,0,3128,2.7% @ 57,2649,0,0
+Joel Carrington,Firefighter/Paramedic,Fire,59870,78575,78575,26900,1572,1875,3% @ 50,17428,1148,10649
+Morgan Sherman,Firefighter/Paramedic,Fire,59870,78575,78575,13756,1572,3683,3% @ 50,17534,1148,10023
+Emily Bernardo,Information Technology Mgr Ii,Admin Svcs/City Clerk/Informat,,95353,93323,0,0,6042,3% @ 60,13185,0,6208
+Jon Edelbrock,Lifeguard Lieutenant,Community Services,65535,79659,79585,12443,0,4194,2% @ 50,12666,0,11346
+Tomas Bryant,Lifeguard/Comm Svcs Specialist,Community Services,39842,48422,46007,279,4731,1547,2% @ 50,7374,0,10992
+Peter Kiefer,Maintenance Superintendent,Public Works,70626,85847,74273,1689,0,4261,3% @ 60,10399,0,6208
+Kristen Crane,Management Services Director,City Manager,103076,135245,105557,0,790,9150,2% @ 60,8325,0,3100
+Leslie Gaudreau-Richter,Minutes Clerk Ii,Admin Svcs/City Clerk/Informat,29120,38210,928,0,0,0,N/A,12,0,0
+Lori Sanchez,Minutes Clerk Ii,Admin Svcs/City Clerk/Informat,29120,38210,15572,58,0,0,N/A,200,0,0
+Christopher Alvarez,Network Systems Technician,Admin Svcs/City Clerk/Informat,49160,59754,59754,230,1100,4831,3% @ 60,8442,0,8412
+Adam Chase,Park Ranger,Community Services,68878,83722,83722,20221,3142,2434,2% @ 50,13312,0,12077
+Eric Sandy,Parking Enforcement Lieutenant,Community Services,57765,75792,75401,8663,0,3461,3% @ 60,10711,0,11346
+Joesph Williams,Parking Enforcement Officer I,Community Services,36112,43894,39266,8736,800,2414,2% @ 62,1544,0,11244
+Ulises Rodriguez,Parking Enforcement Officer Ii,Community Services,44504,54095,46898,5800,800,3504,3% @ 60,6597,0,6182
+Breann Guzman,Planning Intern,Planning,20800,27290,1948,0,0,0,N/A,25,0,0
+Kathleen Garcia,Planning/Comm Develop Director,Planning,103076,135245,135245,0,4161,12241,3% @ 60,19938,0,0
+Adam Birnbaum,Principal Planner,Planning,89632,117605,117605,0,10404,5400,3% @ 60,17225,0,14091
+Victor Sturm,Project Assistant,Public Works,44504,54095,54094,0,0,4304,3% @ 60,7612,0,6182
+Eric Minicilli,Public Works Director,Public Works,103076,135245,135245,0,2496,8705,3% @ 60,19629,0,10049
+Samuel Madrigal,Pump Operator/Mechanic Ii,Public Works,52706,64065,64065,1776,800,4560,3% @ 60,9014,0,10586
+Chaisen Horton,Pw Intern Ii,Public Works,27144,35610,6362,0,0,0,N/A,82,0,0
+Diane Foote,Pw Intern Ii,Admin Svcs/City Clerk/Informat,27144,35610,17505,0,0,0,N/A,225,0,0
+Andrew Ward,Pw Intern Ii,Public Works,27144,35610,11230,11,0,0,N/A,144,0,0
+Melinda Gould,Receptionist,Admin Svcs/City Clerk/Informat,34362,41766,41764,0,800,1955,3% @ 60,5876,0,11244
+Kenneth Blunt,Seasonal Lifeguard I,Community Services,25938,34029,2492,0,0,0,N/A,32,0,0
+Tad McCardell,Seasonal Lifeguard I,Community Services,25938,34029,4352,0,0,225,N/A,33,0,0
+Jonathan Stewart,Seasonal Lifeguard I,Community Services,25938,34029,1647,0,0,153,N/A,23,0,0
+Richard Schwering,Seasonal Lifeguard I,Community Services,25938,34029,3340,0,0,460,N/A,49,0,0
+Chelsea Buser,Seasonal Lifeguard I,Community Services,25938,34029,3873,0,0,0,N/A,50,0,0
+Bradley Buser,Seasonal Lifeguard I,Community Services,25938,34029,12230,125,0,376,N/A,162,0,0
+Bridget Eastwood,Seasonal Lifeguard I,Community Services,25938,34029,4805,75,0,187,N/A,64,0,0
+Jake Holker,Seasonal Lifeguard I,Community Services,25938,34029,1108,0,0,0,N/A,14,0,0
+Matthew Belshin,Seasonal Lifeguard I,Community Services,25938,34029,1283,0,0,157,N/A,19,0,0
+Cole Rogers,Seasonal Lifeguard I,Community Services,25938,34029,5691,141,0,202,N/A,76,0,0
+Karl Hoenecke,Seasonal Lifeguard I,Community Services,25938,34029,597,0,0,0,N/A,8,0,0
+Taylor Tinley,Seasonal Lifeguard I,Community Services,25938,34029,398,0,0,0,N/A,5,0,0
+Spencer Wiggins,Seasonal Lifeguard I,Community Services,25938,34029,6481,365,0,187,N/A,86,0,0
+Alexander Winter,Seasonal Lifeguard I,Community Services,25938,34029,5780,58,0,322,N/A,78,0,0
+Leila Kazerouni,Seasonal Lifeguard I,Community Services,25938,34029,2010,14,0,150,N/A,28,0,0
+Richard Terry,Seasonal Lifeguard I,Community Services,25938,25938,3514,56,0,168,N/A,47,0,0
+Liam Gaarder-Feingold,Seasonal Lifeguard I,Community Services,25938,34029,2960,56,0,187,N/A,40,0,0
+Madeline Crosby,Seasonal Lifeguard I,Community Services,25938,34029,5405,77,0,378,N/A,74,0,0
+Brodie Martin,Seasonal Lifeguard I,Community Services,25938,34029,5150,132,0,187,N/A,69,0,0
+Delaney McComb,Seasonal Lifeguard I,Community Services,25938,34029,3427,0,0,356,N/A,49,0,0
+Trevor Colbert,Seasonal Lifeguard I,Community Services,25938,25938,1743,0,0,0,N/A,22,0,0
+Eric Arnett,Seasonal Lifeguard I,Community Services,25938,25938,1566,0,0,0,N/A,20,0,0
+Remington Jackson,Seasonal Lifeguard I,Community Services,26582,26582,427,0,0,0,N/A,6,0,0
+Amy Wright,Seasonal Lifeguard I,Community Services,25938,34029,3732,0,0,206,N/A,51,0,0
+Sandra Taylor,Seasonal Lifeguard I,Community Services,25938,25938,1619,0,0,150,N/A,23,0,0
+Abigail Annicchiarco,Seasonal Lifeguard I,Community Services,25938,34029,5128,305,0,187,N/A,68,0,0
+Lauren Humann,Seasonal Lifeguard Ii,Community Services,29890,39208,14613,45,0,590,N/A,195,0,0
+Luke Erlbeck,Seasonal Lifeguard Ii,Community Services,29890,39208,8690,163,0,383,N/A,117,0,0
+Claire O'Leary,Seasonal Lifeguard Ii,Community Services,29890,39208,716,0,0,216,N/A,12,0,0
+Kenyon Tudor,Seasonal Lifeguard Ii,Community Services,29890,39208,2939,0,0,181,N/A,40,0,0
+Scott Gaffney,Seasonal Lifeguard Ii,Community Services,29890,39208,3816,0,0,0,N/A,49,0,0
+Ryan Hanson,Seasonal Lifeguard Ii,Community Services,29890,39208,1671,0,0,0,N/A,21,0,0
+Scott Tinley,Seasonal Lifeguard Ii,Community Services,29890,39208,2734,0,0,190,N/A,38,0,0
+Blake Humann,Seasonal Lifeguard Ii,Community Services,29890,39208,3565,0,0,0,N/A,46,0,0
+George Crocker,Seasonal Lifeguard Ii,Community Services,36421,36421,1794,0,0,184,N/A,25,0,0
+Scott Henson,Seasonal Lifeguard Ii,Community Services,29890,39208,14485,648,0,403,N/A,191,0,0
+John Abram,Seasonal Lifeguard Ii,Community Services,29890,39208,6523,204,0,407,N/A,89,0,0
+Timothy Erickson,Seasonal Lifeguard Ii,Community Services,29890,39208,18974,1887,0,732,N/A,253,0,0
+Jamie Chambers,Seasonal Lifeguard Ii,Community Services,29890,39208,2394,0,0,0,N/A,31,0,0
+Brendon Strause,Seasonal Lifeguard Ii,Community Services,29890,29890,117,0,0,0,N/A,2,0,0
+Jeff Owen,Seasonal Lifeguard Ii,Community Services,29890,39208,2317,0,0,400,N/A,35,0,0
+Sebastian Slovin,Seasonal Lifeguard Ii,Community Services,27144,35610,2091,0,0,190,N/A,29,0,0
+Michael Emerson,Seasonal Lifeguard Ii,Community Services,29890,39208,3512,0,0,736,N/A,55,0,0
+Ariel Crocker,Seasonal Lifeguard Iii,Community Services,35693,46821,11442,0,0,0,N/A,147,0,0
+John Seiber,Seasonal Lifeguard Iii,Community Services,35693,46821,25779,1604,0,471,N/A,337,0,0
+Terry Tinley,Seasonal Lifeguard Iii,Community Services,35693,46821,12778,460,0,487,N/A,170,0,0
+Matthew Becker,Seasonal Lifeguard Iii,Community Services,35693,46821,10341,0,0,525,N/A,140,0,0
+Michael Lee,Seasonal Worker I - Cs Beach Maintenance,Community Services,26520,26520,4546,0,0,0,N/A,58,0,0
+Deon Kula,Seasonal Worker I - Parking Enforcement,Community Services,23442,23442,4045,0,0,0,N/A,52,0,0
+Anthony Beccera,Seasonal Worker I - Parking Enforcement,Community Services,21757,28558,1377,0,0,0,N/A,18,0,0
+Cortney Pache,Seasonal Worker I - Parking Enforcement,Community Services,21757,28558,5835,0,0,0,N/A,75,0,0
+Palmer Hearne,Seasonal Worker Ii - Parking Enforcement,Community Services,25147,32989,7257,345,0,173,N/A,95,0,0
+Connie Carrol-Lund,Seasonal Worker Ii - Parking Enforcement,Community Services,25147,32989,994,0,0,0,N/A,13,0,0
+Paul Petersen,Seasonal Worker Ii - Parking Enforcement,Community Services,25147,32989,2610,0,0,140,N/A,35,0,0
+Daniel Vasquez,Seasonal Worker Ii - Parking Enforcement,Community Services,32989,32989,9061,0,0,0,N/A,116,0,0
+Daniel Welte,Seasonal Worker Ii - Parking Enforcement,Community Services,25147,32989,4590,0,0,214,N/A,62,0,0
+Robert Brown,Seasonal Worker Ii - Pw Beach,Public Works,25147,32989,12119,486,0,200,N/A,158,0,0
+Joesph Curren,Seasonal Worker Ii - Pw Beach,Public Works,30638,30638,7373,464,0,442,N/A,100,0,0
+Kerri Beckwith,Seasonal Worker Ii - Pw Beach,Public Works,25147,32989,19039,735,0,446,N/A,250,0,0
+Michael Bonwell,Seasonal Worker Ii - Pw Beach,Public Works,25147,32989,14881,610,0,421,N/A,196,0,0
+Rolland Tizuela,Seasonal Worker Ii - Pw Beach,Public Works,25147,32989,19918,796,0,470,N/A,262,0,0
+Jose Gonzalez,Seasonal Worker Ii - Pw Beach,Public Works,25147,32989,19742,611,0,464,N/A,259,0,0
+Gilberto Rivas,Seasonal Worker Ii - Pw Beach,Public Works,25147,32989,19009,1574,0,464,N/A,250,0,0
+Kevin Rodriguez,Seasonal Worker Ii- Cs Beach Maint.,Community Services,25147,32989,3689,0,0,156,N/A,49,0,0
+Oscar Rivas,Seasonal Worker Ii- Cs Beach Maint.,Community Services,25147,32989,18654,0,0,557,N/A,247,0,0
+Jose Martinez,Seasonal Worker Ii- Cs Beach Maint.,Community Services,25147,32989,16618,3226,0,418,N/A,219,0,0
+Gregory Young,Seasonal Worker Ii- Cs Beach Maint.,Community Services,29890,29890,8228,0,0,0,N/A,106,0,0
+Jose Martinez-Guzman,Seasonal Worker Ii- Cs Beach Maint.,Community Services,25147,32989,554,0,0,0,N/A,7,0,0
+Rebecca Beauchamp-Griffith,Seasonal Worker Ii- Cs Beach Maint.,Community Services,25147,32989,838,0,0,0,N/A,11,0,0
+Jose Macias,Seasonal Worker Ii- Cs Beach Maint.,Community Services,25147,32989,3354,0,0,160,N/A,45,0,0
+Gustavo Ramos,Seasonal Worker Ii- Cs Beach Maint.,Community Services,25147,32989,1776,0,0,164,N/A,25,0,0
+Guillermo Hernandez,Seasonal Worker Ii- Parking Enforcement,Community Services,25147,32989,13400,230,0,328,N/A,176,0,0
+Monica Molina,Senior Accountant,Finance,76085,92481,92395,0,0,2565,3% @ 60,12998,0,11346
+Tyler Grant,Senior Lifeguard,Community Services,37908,46078,46078,5583,800,2602,2% @ 50,7334,0,11244
+Jon Terwilliger,Senior Management Analyst,City Manager,76085,92481,92395,0,0,2565,2% @ 60,7234,0,11346
+Donald Chase,Senior Management Analyst Pt,City Manager,76085,92481,3105,0,0,0,N/A,40,0,0
+Matthew Bator,Senior Planner,Planning,76085,92481,92394,0,7114,0,3% @ 60,12998,0,12342
+Joseph Smith,Senior Planner,Planning,76085,92481,83890,2822,0,0,2% @ 60,6555,0,10203
+Mitchell Annicchiarico,Student Lifeguard,Community Services,20800,27290,2889,189,0,243,N/A,40,0,0
+Patrick Doheny,Student Lifeguard,Community Services,20800,27290,2710,0,0,230,N/A,38,0,0
+Louisa Nickerson,Student Lifeguard,Community Services,20800,27290,2803,14,0,351,N/A,41,0,0
+Hailey Horan,Student Lifeguard,Community Services,20800,27290,3349,68,0,311,N/A,47,0,0
+Christian Sieber,Student Lifeguard,Community Services,20800,27290,3359,27,0,324,N/A,47,0,0
+Alex Stromitis,Student Lifeguard,Community Services,20800,27290,3290,0,0,216,N/A,45,0,0
+Dylan Brenk,Student Lifeguard,Community Services,20800,27290,1740,27,0,216,N/A,25,0,0
+Noa Hopper,Student Lifeguard,Community Services,20800,27290,2141,0,0,216,N/A,30,0,0
+Griffin McComb,Student Lifeguard,Community Services,20800,27290,1301,0,0,108,N/A,18,0,0
+John Reveley,Student Lifeguard,Community Services,20800,27290,4067,108,0,122,N/A,54,0,0
+John Schade,Student Lifeguard,Community Services,20800,27290,2546,41,0,230,N/A,36,0,0
+Peter Shoemaker,Student Lifeguard,Community Services,20800,27290,3572,54,0,378,N/A,51,0,0
+Zachary Simon,Student Lifeguard,Community Services,20800,27290,1835,0,0,230,N/A,27,0,0
+Kacie Cunningham,Student Lifeguard,Community Services,20800,27290,1462,0,0,216,N/A,22,0,0
+Alejandro Panduro,Utility Specialist I,Public Works,46774,56854,56755,4185,800,4140,3% @ 60,7982,0,10586
+Leland Churchyard,Utility Worker I,Public Works,37954,46133,42734,1316,800,6954,2% @ 62,2788,0,6182
+James Scott,Utility Worker I,Public Works,37954,46133,11017,561,343,1090,N/A,142,0,1487
+Paul Johnson,Utility Worker I,Public Works,37954,46133,18247,630,800,1726,2% @ 62,1179,0,2847
+John Patrick Barnett,Utility Worker I,Public Works,37954,46133,41209,931,800,6929,2% @ 62,2783,0,8513
+Andre Proano,Utility Worker Ii,Public Works,42344,51469,51469,2989,800,3690,3% @ 60,7242,0,10586
+Joshua Flanders,Utility Worker Ii,Public Works,42344,51469,4189,0,524,0,3% @ 60,696,0,0
+Paul Thomas,Utility/Landscape Specialist,Public Works,44504,54095,54094,355,3505,3090,3% @ 60,7923,0,9866
